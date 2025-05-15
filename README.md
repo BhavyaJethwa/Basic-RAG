@@ -1,4 +1,4 @@
-```markdown
+
 # 🦜🔗 LangChain RAG Demo: OpenAI, FAISS & Web Loader
 
 A hands-on Jupyter notebook demo showing how to build a **Retrieval-Augmented Generation (RAG)** application using [LangChain](https://python.langchain.com/), OpenAI embeddings/LLMs, FAISS vector search, and live web content loading—all in pure Python! 🚀
@@ -172,4 +172,3 @@ A: LangChain simplifies all stages of the LLM application lifecycle, including c
 
 Happy experimenting and learning! 💡🦜  
 *Have questions? Visit [LangChain Forums](https://discuss.langchain.com/) or open an issue on this repo!*
-```
